@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
 <h3 align="center">A Frontend Web Developer who forgets semicolons but remembers the beauty of clean code. 💻 When I'm not debugging, you'll find me competing in coding challenges, occasionally forgetting what I ate for breakfast mid-algorithm.</h3>
 
+
+
 - 🔭 I’m currently working on [Building React Projects](https://github.com/saurvkmr0/REACT)
 
 - 🌱 I’m currently learning **React**
@@ -13,6 +15,7 @@
 
 - ⚡ Fun fact **I forgot things a lot and also .... umm.. i forgot 😥**
 
+ ![Alt Text](gifs/github_hero_gif.gif)
 
 <h1>Technologies and Skills</h1>
 <div align="center">
