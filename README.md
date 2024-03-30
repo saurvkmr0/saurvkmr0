@@ -14,6 +14,7 @@
 - ⚡ Fun fact **I forgot things a lot and also .... umm.. i forgot 😥**
 
 
+<h1>Technologies and Skills</h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -40,13 +41,14 @@
 
 ###
 
+<h1>Let's Connect</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/saurav-kumar-57279b290/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-
-
-  
+  <a href="https://leetcode.com/saurav0/" target="_blank">
+    <img src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" height="40" alt="leetcode logo"  />
+  </a>
   <a href="https://www.instagram.com/its._.saurav/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
