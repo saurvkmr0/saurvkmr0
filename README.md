@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at [coming soon]
 
 - 📫 How to reach me **saurvkmr0@gmail.com**
 
-- 📄 Know about my experiences [coming soon](coming soon)
+- 📄 Know about my experiences [coming soon]
 
-- ⚡ Fun fact **I forgot things a lot and also .... umm.. i forgot 😥**
+- ⚡ Fun fact **I forgot things a lot and also .... umm .... i forgot 😥**
 
  ![Alt Text](gifs/github_hero_gif.gif)
 
