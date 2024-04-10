@@ -14,8 +14,11 @@
 - 📄 Know about my experiences [coming soon]
 
 - ⚡ Fun fact **I forgot things a lot and also .... umm .... i forgot 😥**
-
- ![Alt Text](gifs/github_hero_gif.gif)
+  
+<div align="center">
+  <img src="gifs/github_hero_gif.gif" alt="GitHub Hero GIF">
+</div>
+<!--  ![Alt Text](gifs/github_hero_gif.gif) -->
 
 <h1>Technologies and Skills</h1>
 <div align="center">
